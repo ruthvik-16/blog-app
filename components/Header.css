@@ -1,0 +1,30 @@
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-link {
+  text-decoration: none;
+}
+
+.logo {
+  width: 100px; /* Adjust the width as needed */
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 1rem;
+}
