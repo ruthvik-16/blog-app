@@ -1,3 +1,11 @@
+Cannot upload node modules.
+you have to install the node modules and then access it
+http://localhost:3000/
+open this in the browser or from the project directory type npm start to start the server.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
